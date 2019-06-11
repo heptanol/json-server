@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Barbo",
+      "lastName": "Iga",
+      "email": "iga@foo.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Tosca",
+      "lastName": "Rima",
+      "email": "rima@foo.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Dolce",
+      "lastName": "Pita",
+      "email": "pita@foo.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Ric",
+      "lastName": "Hepa",
+      "email": "hepa@foo.com"
+    }
+  ]
+}
