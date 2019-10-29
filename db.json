@@ -24,5 +24,32 @@
       "lastName": "Hepa",
       "email": "hepa@foo.com"
     }
+  ],
+  "nodes": [
+    {
+      "id": '10',
+      "title": 'Node 0',
+      "localisation": {"latitude": 51.678418, "longitude": 7.709007}
+      },
+    {
+      "id": '11',
+      "title": 'Node 1',
+      "localisation": {"latitude": 51.678510, "longitude": 7.899007}
+      },
+    {
+      "id": '12',
+      "title": 'Node 2',
+      "localisation": {"latitude": 51.618418, "longitude": 7.809007}
+      },
+    {
+      "id": '13',
+      "title": 'Node 3',
+      "localisation": {"latitude": 51.678418, "longitude": 7.879007}
+      },
+    {
+      "id": '14',
+      "title": 'Node 4',
+      "localisation": {"latitude": 51.628418, "longitude": 7.889007}
+      },
   ]
 }
